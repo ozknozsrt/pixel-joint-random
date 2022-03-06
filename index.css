@@ -1,3 +1,7 @@
+html {
+  display: grid;
+  place-content: center;
+}
 body {
   background: #111;
 }
